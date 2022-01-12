@@ -3,12 +3,12 @@
 This is a platform to share my learning content about computer,
 maybe mostly about school project
 
-## Java learning
+### Java learning
 
-## C++ learning
+### C++ learning
 
-## Javaweb learning
+### Javaweb learning
 
-## python lerarning
+### python lerarning
 
-## html + CSS + JS learning
+### html + CSS + JS learning
